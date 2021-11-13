@@ -1,7 +1,6 @@
 ####  Hello! :wave: My name is Mariana
 
 :blue_heart: I’m interested in
-- Math
 - Functional and Logical Programming
 - AI
  
