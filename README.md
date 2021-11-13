@@ -1,8 +1,20 @@
 ####  Hello! :wave: My name is Mariana
 
-:blue_heart: I’m interested in
+I'm a 21 years old student eager to learn as much as possible about computer science and all that it involves. :mortar_board:
+
+A movie lover:movie_camera:, passionate about learning a new language:book:.
+<br />
+<br />
+<br />
+In regards to computer science:
+
+
+
+:blue_heart: I developed an interest for
 - Functional and Logical Programming
 - AI
+ 
+ <br />
  
 :satisfied: I’m currently learning
 - JavaScript
