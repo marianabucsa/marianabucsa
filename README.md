@@ -1,8 +1,8 @@
 ####  Hello! :wave: My name is Mariana
 
-I'm a 21 years old student eager to learn as much as possible about computer science and all that it involves. :mortar_board:
+I'm a 21 years old student eager to learn computer science and all that it involves. :mortar_board:
 
-A movie lover:movie_camera:, passionate about learning a new language:book:.
+A movie lover:movie_camera:, always open to travel and to learn a new language:book:.
 <br />
 <br />
 <br />
