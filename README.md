@@ -1,6 +1,6 @@
 ####  Hello! :wave: My name is Mariana
 
-I'm a 21 years old student eager to learn computer science and all that it involves. :mortar_board:
+I'm a 22 years old student eager to learn computer science and all that it involves. :mortar_board:
 
 A movie lover:movie_camera:, always open to travel and to learn a new language:book:.
 <br />
@@ -12,15 +12,13 @@ In regards to computer science:
 
 :blue_heart: I developed an interest for
 - Functional and Logical Programming
-- AI
+- Computer Vision and Deep Learning
  
  <br />
  
 :satisfied: I’m currently learning
 - JavaScript
-- C#
-- LISP
-- SQL
+- SAP ABAP
 <br />
 
 :earth_africa: Contact me
