@@ -1,24 +1,7 @@
 ####  Hello! :wave: My name is Mariana
 
-I'm a 22 years old student eager to learn computer science and all that it involves. :mortar_board:
-
-A movie lover:movie_camera:, always open to travel and to learn a new language:book:.
 <br />
 <br />
-<br />
-In regards to computer science:
-
-
-
-:blue_heart: I developed an interest for
-- Functional and Logical Programming
-- Computer Vision and Deep Learning
- 
- <br />
- 
-:satisfied: I’m currently learning
-- JavaScript
-- SAP ABAP
 <br />
 
 :earth_africa: Contact me
@@ -36,9 +19,7 @@ In regards to computer science:
 
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lisp/lisp.png"></code>
